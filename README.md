@@ -8,7 +8,4 @@
 - [ ] Добавить импорт и экспорт ANSI файла
 - [ ] Испечь торт
 
-<a href="https://imgur.com/gallery/KXr07TX">
-	<img src="images/88x31/collected/folder2.gif" width="88" height="31" alt="A folder with several tabs">
-</a> 
-![Download](https://img.shields.io/badge/Download-00B50F)](https://github.com/Zest4ek/ImageToANSI/releases/tag/pre-1.0)
+[![Download](https://img.shields.io/badge/Download-00B50F)](https://github.com/Zest4ek/ImageToANSI/releases/tag/pre-1.0)
