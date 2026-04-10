@@ -1,4 +1,5 @@
-![icon](app.ico) ![example](example.png)
+<img src="app.ico" alt="icon" width="50" />
+<img src="example.png" alt="example" width="300" />
 
 ## ImageToANSI
 Простая программа, позволяющая вывести изображение в консоль<br>
