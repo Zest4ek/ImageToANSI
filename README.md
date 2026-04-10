@@ -1,6 +1,6 @@
 <img src="example.png" alt="example" width="300" />
 
-### <img src="app.ico" alt="icon" width="100"/> ImageToANSI
+# <img src="app.ico" alt="icon" width="100"/> ImageToANSI
 Простая программа, позволяющая вывести изображение в консоль<br>
 ❗ Примечание: Конвертируйте изображение в .png, .jpg или .jpeg, чтобы избежать визуальных багов!
 
