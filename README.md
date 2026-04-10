@@ -7,3 +7,5 @@
 - [x] Создать программу
 - [ ] Добавить импорт и экспорт ANSI файла
 - [ ] Испечь торт
+
+[![Download](https://shields.io)]([https://github.com](https://github.com/Zest4ek/ImageToANSI/releases/tag/pre-1.0))
