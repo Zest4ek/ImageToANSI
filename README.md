@@ -7,5 +7,9 @@
 - [x] Создать программу
 - [ ] Добавить импорт и экспорт ANSI файла
 - [ ] Испечь торт
+      
+<a href="https://github.com/">
+	<img src="https://img.shields.io/badge/Download-00B50F" height="31" alt="Download">
+</a>
 
 [![Download](https://img.shields.io/badge/Download-00B50F)](https://github.com/Zest4ek/ImageToANSI/releases/tag/pre-1.0)
