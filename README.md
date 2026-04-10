@@ -8,4 +8,4 @@
 - [ ] Добавить импорт и экспорт ANSI файла
 - [ ] Испечь торт
 
-[![Download](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)](https://github.com/Zest4ek/ImageToANSI/releases/tag/pre-1.0))
+[![Download](https://img.shields.io/badge/->-DOWNLOAD-brightgreen?style=for-the-badge)](https://github.com/Zest4ek/ImageToANSI/releases/tag/pre-1.0)
