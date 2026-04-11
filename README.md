@@ -2,7 +2,7 @@
 
 # <img src="app.ico" alt="icon" width="50"/> ImageToANSI
 Простая программа, позволяющая вывести изображение в консоль, используя 216-цветовую палитру.<br>
-❗<img src="https://github.com/trapd00r/win95-winxp_icons/blob/master/icons/w2k_warning.ico" alt="warning_icon" width="100"/>**Примечание:** Конвертируйте изображение в `.png`, `.jpg` или `.jpeg`, чтобы избежать визуальных багов!
+<img src="https://github.com/trapd00r/win95-winxp_icons/blob/master/icons/w2k_warning.ico" alt="warning_icon"/> **Примечание:** Конвертируйте изображение в `.png`, `.jpg` или `.jpeg`, чтобы избежать визуальных багов!
 
 - [x] Создать программу
 - [ ] Добавить импорт и экспорт ANSI файла
