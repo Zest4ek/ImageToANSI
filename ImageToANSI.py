@@ -48,7 +48,10 @@ def _export():
                 ansi.append(f"{index},")
                 ansi[-1] = ansi[-1]
             ansi.append("|")
-
+            
+        if not os.path.exists("Saves"):
+            os.makedirs("Saves")
+            
         with open(f"Saves/{name}.ansi", "w", encoding="utf-8") as file:
             file.write("".join(ansi)[:-1])
 
