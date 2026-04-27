@@ -8,7 +8,7 @@
 
 <img src="https://github.com/trapd00r/win95-winxp_icons/blob/master/icons/w2k_warning.ico" alt="warning_icon" width="16"/> **Примечание:** Конвертируйте изображение в `.png`, `.jpg` или `.jpeg` и не расширяйте окно консоли, чтобы избежать визуальных багов!<br>
 <img src="https://github.com/trapd00r/win95-winxp_icons/blob/master/icons/w95_16.ico" alt="warning_icon" width="16"/> **OS:** Windows<br>
-<img src="https://github.com/trapd00r/win95-winxp_icons/blob/master/icons/wxp_182.ico" alt="warning_icon" width="16"/> **Version:** pre-1.0
+<img src="https://github.com/trapd00r/win95-winxp_icons/blob/master/icons/wxp_182.ico" alt="warning_icon" width="16"/> **Version:** v-1.0
 
 - [x] Добавить импорт и экспорт ANSI файла
 - [ ] Испечь торт
