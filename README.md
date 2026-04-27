@@ -13,4 +13,4 @@
 - [x] Добавить импорт и экспорт ANSI файла
 - [ ] Испечь торт
 
-[![Download](https://img.shields.io/badge/Download-00B50F)](https://github.com/Zest4ek/ImageToANSI/releases/tag/pre-1.0)
+[![Download](https://img.shields.io/badge/Download-00B50F)](https://github.com/Zest4ek/ImageToANSI/releases/tag/1.0)
