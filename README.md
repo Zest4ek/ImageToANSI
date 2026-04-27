@@ -2,7 +2,7 @@
 
 # <img src="app.ico" alt="icon" width="40"/> ImageToANSI
 Простая программа, позволяющая вывести изображение в консоль, используя 216-цветовую палитру.<br>
-Присутствует импорт и экспорт `.ansi` файлов.<br>
+Присутствует импорт и экспорт `.ansi` файлов (изображение в виде текста).<br>
 Все `.ansi` файлы будут сохраняться в папку  <img src="https://github.com/trapd00r/win95-winxp_icons/blob/master/icons/w2k_closed_folder.ico" alt="warning_icon" width="13"/> **Saves** в папке с программой.<br>
 Пример такого файла: https://github.com/Zest4ek/ImageToANSI/blob/main/Saves/example.txt
 
