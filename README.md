@@ -10,7 +10,8 @@
 <img src="https://github.com/trapd00r/win95-winxp_icons/blob/master/icons/w95_16.ico" alt="warning_icon" width="16"/> **OS:** Windows<br>
 <img src="https://github.com/trapd00r/win95-winxp_icons/blob/master/icons/wxp_182.ico" alt="warning_icon" width="16"/> **Version:** v-1.0
 
-- [x] Добавить импорт и экспорт ANSI файла
-- [ ] Испечь торт
+- [x] Добавить импорт и экспорт ANSI файла📃
+- [ ] Добавить полную поддержку `.gif` файлов📼
+- [ ] Испечь торт🎂
 
 [![Download](https://img.shields.io/badge/Download-00B50F)](https://github.com/Zest4ek/ImageToANSI/releases/tag/1.0)
